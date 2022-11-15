@@ -2,7 +2,7 @@ import { ReactElement } from 'react'
 import styled from 'styled-components'
 import { COLOR, STYLE } from 'consts'
 import { InfoCircle } from 'react-bootstrap-icons'
-
+// test
 import Button from 'components/Button'
 import { WalletEnum, WalletSupportBrowser, WalletTitle } from 'types/wallet'
 import WalletLogo from 'components/WalletLogo'
